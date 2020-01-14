@@ -1,2 +1,2 @@
 # upm-ci-example
-Example for creating upm Branch with GitHub Action
+Example for creating upm branch with GitHub Action
