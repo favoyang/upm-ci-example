@@ -1,0 +1,15 @@
+{
+  "name": "com.littlebigfun.upm-ci-example",
+  "version": "1.0.0",
+  "type": "sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favoyang/upm-ci-example.git"
+  },
+  "author": "Favo Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/favoyang/upm-ci-example/issues"
+  },
+  "homepage": "https://github.com/favoyang/upm-ci-example#readme"
+}
